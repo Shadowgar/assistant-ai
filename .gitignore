@@ -1,0 +1,12 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.sqlite
+*.pid
+*.swp
+.DS_Store
